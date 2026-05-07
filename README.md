@@ -5,14 +5,17 @@
 1. Clone the repository
 2. Install dependencies:
    npm install
-3. Run the app:
-   npm run dev
+3. Create a `.env` file:
+   API_URL=https://api.newservice.com
+4. Start the app:
+   npm run start
 
 ## Requirements
 
-- Node.js v14
-- npm v6
+- Node.js v18+
+- npm v9+
 
 ## Notes
 
-This setup has not been updated recently.
+- Node.js was upgraded from v14 to v18+
+- The startup command is `npm run start`
