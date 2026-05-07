@@ -1,0 +1,5 @@
+The README currently references Node.js v14 and uses npm run dev.
+
+The project now requires Node.js v18+ and uses npm run start. It is also missing the .env setup step.
+
+This is confusing for developers trying to run the project locally.
